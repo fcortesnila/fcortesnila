@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>Fernando cortes Nila</h2>
+<h2>Fernando Cortes Nila</h2>
 <!--
 **fcortesnila/fcortesnila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
