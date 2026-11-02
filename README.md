@@ -1,18 +1,13 @@
 ### Hi there 👋
 <h2>Fernando Cortes Nila Here</h2>
-​<p>Electronic circuits and software systems are my passion! I am a driven engineer specializing in the intersection of hardware and full-stack development, eager to create technology that simplifies everyday tasks and expands the human toolkit.
-​I collaborate closely with scientists, business owners, developers, and technicians to design, build, and deploy both full-stack web platforms and electronic systems that meet precise client requirements.</p>
-​<p>Holding a bachelor's degree in electronics from a Mexican university (UTM) and an Ontario College diploma (DC) in electronics, I combine a strong work ethic and detail-oriented analytical skills with an adaptable, easy-going approach.</p>
-​<p>In my free time, I love researching space exploration, interplanetary missions, and alternative agriculture. My ultimate goal is to contribute to the design of sustainable spacecraft.</p>
-​<h3>PROFESSIONAL CAREER HIGHLIGHTS:</h3>
-<ul>
-  <li>Full Stack Developer @ RBC Wealth Management</li>
-  <li>Web Developer @ RBC Wealth Management</li>
-  <li>Web Content Developer @ RBC Wealth Management</li>
-  <li>Internal Operations @ Shopify</li>
-</ul>
-​<h3>Interested in:</h3>
-<p>Programming / R&D Electronics Engineering / Web Development / PCB Design / IoT / Software Systems</p>
+<p>​I’m a full-stack software developer at RBC Wealth Management, building on more than two years of frontend development experience. My work spans JavaScript, Node.js, APIs, CI/CD, and Microsoft Entra ID.</p>
+<p>In my personal projects, I use OpenAI Codex to explore code, plan and implement changes, review diffs, and validate results. I take responsibility for checking the work and confirming that it behaves as intended. My projects include Avian Vet, a healthcare software starter, and a FastAPI phone directory with tests and CI.</p>
+<p>My education in electronics engineering shaped how I approach software: understand the system, clarify the requirements, and verify the result. I hold a bachelor’s degree in Electronics Engineering from Universidad Tecnológica de la Mixteca and an Electronics Engineering Technician diploma from Durham College.</p>
+<p>I’m interested in building useful software and learning more about software systems, electronics, and space exploration.</p>
+<u>
+  <li>Portfolio: <a href="https://fcortesnila.com/" target="_blank">https://fcortesnila.com/</a></li>
+  <li>GitHub: <a href="https://fcortesnila.com/" target="_blank"> https://github.com/fcortesnila</a></li>
+</u>
 <!--
 **fcortesnila/fcortesnila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
