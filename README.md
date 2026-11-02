@@ -4,10 +4,10 @@
 <p>In my personal projects, I use OpenAI Codex to explore code, plan and implement changes, review diffs, and validate results. I take responsibility for checking the work and confirming that it behaves as intended. My projects include Avian Vet, a healthcare software starter, and a FastAPI phone directory with tests and CI.</p>
 <p>My education in electronics engineering shaped how I approach software: understand the system, clarify the requirements, and verify the result. I hold a bachelor’s degree in Electronics Engineering from Universidad Tecnológica de la Mixteca and an Electronics Engineering Technician diploma from Durham College.</p>
 <p>I’m interested in building useful software and learning more about software systems, electronics, and space exploration.</p>
-<u>
+<p><u>
   <li>Portfolio: <a href="https://fcortesnila.com/" target="_blank">https://fcortesnila.com/</a></li>
   <li>GitHub: <a href="https://fcortesnila.com/" target="_blank"> https://github.com/fcortesnila</a></li>
-</u>
+</u></p>
 <!--
 **fcortesnila/fcortesnila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
