@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>Fernando Cortes Nila Here</h2>
-<p>​I’m a full-stack software developer at RBC Wealth Management, building on more than two years of frontend development experience. My work spans JavaScript, Node.js, APIs, CI/CD, and Microsoft Entra ID.</p>
+<p>​I’m a full-stack software developer at RBC Wealth Management, building on more than four years of frontend development experience. My work spans JavaScript, Node.js, APIs, CI/CD, and Microsoft Entra ID.</p>
 <p>In my personal projects, I use OpenAI Codex to explore code, plan and implement changes, review diffs, and validate results. I take responsibility for checking the work and confirming that it behaves as intended. My projects include Avian Vet, a healthcare software starter, and a FastAPI phone directory with tests and CI.</p>
 <p>My education in electronics engineering shaped how I approach software: understand the system, clarify the requirements, and verify the result. I hold a bachelor’s degree in Electronics Engineering from Universidad Tecnológica de la Mixteca and an Electronics Engineering Technician diploma from Durham College.</p>
 <p>I’m interested in building useful software and learning more about software systems, electronics, and space exploration.</p>
